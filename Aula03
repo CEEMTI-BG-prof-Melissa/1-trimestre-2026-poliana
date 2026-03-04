@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <header>
+            <h1> Portal Tech </h1>
+            <p> Conectando você a o futuro da tecnologia </p>
+            <nav>
+                <a href="Início.html"> Início </a>
+                <a href="Notícias.html"> Notícias </a>
+                <a href="Cursos.html"> Cursos </a>
+                <a href="Contato.html"> Contato </a>
+            </nav>
+        </header>
+        <main>
+            <h2> Notícias </h2>
+            <article> 
+                <h3> Notícia 0X </h3>
+                <p> Essa é a Notícia! </p>
+            </article>
+            <aside>
+                <h4> Dica da Semana </h4>
+            </aside>
+        </main>
+        <footer> 
+            <p> Poliana </p>
+            <p> 3°01 IPI </p>
+            <p> 2026 </p>
+        </footer>
+    </body>
+    </html>
